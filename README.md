@@ -8,3 +8,5 @@ A coding challenge from riddles.io
 ### Building/Running
 1. Once the project has loaded into Visual Studio, hit CTRL+SHIFT+B (Build)
 2. To run the project hit CTRL+F5 (Run without debugging)
+### Dependencies
+- git >= 2.18.0
